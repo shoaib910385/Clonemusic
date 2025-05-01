@@ -1,5 +1,5 @@
 <h2 align="center">
-    ───「 ᴄʟᴏɴɪғʏ 」───
+    ───「 𝐃ʀꭙ 𝐍ᴇᴛᴡᴏʀᴋ 🜲 」───
 </h2>
 
 <p align="center">
@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamProBots/Clonify"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/shoaib910385/Clonemusic"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <br />
 
@@ -106,7 +106,7 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 </h3>
 
 <p align="center">
-<a href="https://t.me/ProBotGc"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DRX_SUPPORTCHAT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
