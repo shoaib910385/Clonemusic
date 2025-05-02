@@ -149,15 +149,15 @@ STREAMI_PICS = [
 ]
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/asao71.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/z4c7bn.jpg"
 )
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://files.catbox.moe/p6xpll.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/twt7ka.jpg"
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/p6xpll.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/c5nges.jpg"
 )
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/p6xpll.jpg"
