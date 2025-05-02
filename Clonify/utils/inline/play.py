@@ -227,10 +227,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/ZeoXpro"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/lll_drx_network_lll"
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ", url=f"https://t.me/ProBotGc"
+                text="ᴄʜᴀᴛ", url=f"https://t.me/DRX_SUPPORTCHAT"
             ),
         ],
 
