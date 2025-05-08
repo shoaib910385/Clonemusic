@@ -23,7 +23,7 @@ async def ping_clone(client: Client, message: Message):
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(bot.id)
     C_SUPPORT_CHANNEL = f"https://t.me/{C_BOT_SUPPORT_CHANNEL}"
 
-    hmm = await message.reply_video(
+    hmm = await message.reply_photo(
         photo=PING_IMG_URL, caption=f"{bot.mention} ɪs ᴘɪɴɢɪɴɢ..."
     )
     upt = int(time.time() - StartTime)
