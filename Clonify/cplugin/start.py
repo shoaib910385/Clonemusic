@@ -99,7 +99,7 @@ async def start_pm(client, message: Message, _):
                 [
                     [
                         InlineKeyboardButton(text=_["S_B_8"], url=link),
-                        InlineKeyboardButton(text=_["S_B_9"], url=f"https://t.me/drx_supportchat",
+                        InlineKeyboardButton(text=_["S_B_9"], url=C_SUPPORT_CHAT),
                     ],
                 ]
             )
@@ -121,7 +121,7 @@ async def start_pm(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(text=_["C_B_2"], user_id=C_BOT_OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/lll_drx_network_lll",
+            InlineKeyboardButton(text=_["S_B_6"], url=C_SUPPORT_CHANNEL),
         ],
         [
             InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper"),
@@ -162,9 +162,9 @@ async def start_gp(client, message: Message, _):
     a = await client.get_me()
     #Cloned Bot Support Chat and channel
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(a.id)
-    C_SUPPORT_CHAT = f"https://t.me/{C_BOT_SUPPORT_CHAT}"
+    C_SUPPORT_CHAT = f"https://t.me/drx_supportchat"
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(a.id)
-    C_SUPPORT_CHANNEL = f"https://t.me/{C_BOT_SUPPORT_CHANNEL}"
+    C_SUPPORT_CHANNEL = f"https://t.me/lll_drx_network"
     # out = start_panel(_)
     out = [
                     [
