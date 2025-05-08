@@ -49,7 +49,7 @@ async def start_pm(client, message: Message, _):
     
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ</b>")
     C_BOT_SUPPORT_CHAT = await get_cloned_support_chat(a.id)
-    C_SUPPORT_CHAT = f"https://t.me/{C_BOT_SUPPORT_CHAT}"
+    C_SUPPORT_CHAT = f"https://t.me/lll_DrX_network_lll"
     # await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ.</b>")
     C_BOT_SUPPORT_CHANNEL = await get_cloned_support_channel(a.id)
