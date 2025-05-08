@@ -157,7 +157,7 @@ HELP_IMG_URL = getenv(
 )
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/2s8tyt.mp4"
+    "PING_IMG_URL", "https://files.catbox.moe/tjxy2c.jpg"
 )
 PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/p6xpll.jpg"
