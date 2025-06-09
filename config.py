@@ -159,11 +159,11 @@ HELP_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/tjxy2c.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/d5dx2y.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/p6xpll.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/gL3ykkyh/play-music.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/0VKCS20y/stream.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/d5dx2y.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/d5dx2y.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/d5dx2y.jpg"
 SOUNCLOUD_IMG_URL = "https://i.ibb.co/S4sPf3q8/soundcloud.jpg"
 YOUTUBE_IMG_URL = "https://i.ibb.co/xShkBVBK/youtube.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/XZfMS8Db/spotify.jpg"
