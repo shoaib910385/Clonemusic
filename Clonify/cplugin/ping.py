@@ -45,7 +45,7 @@ async def ping_clone(client: Client, message: Message):
 ๏ **ᴅɪsᴋ :** {disk}""",
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=C_SUPPORT_CHAT)],
+                [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/drx_supportchat")],
             ]
         ),
     )
